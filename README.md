@@ -6,7 +6,7 @@ This report details the process and findings of a three-month data analytics pro
 
 ### **2. Introduction**
 
-Social Buzz, founded in 2010 and headquartered in San Francisco, has grown rapidly to over 500 million active users monthly. As the company prepares for an IPO and seeks to manage its scaling challenges, they engaged Accenture to conduct an audit of their big data practices and provide insights into their top-performing content categories. The project was executed over three months and involved detailed data analysis to identify the categories driving the most engagement on the platform.
+Social Buzz a social media platform, founded in 2010 and headquartered in San Francisco, has grown rapidly to over 500 million active users monthly. As the company prepares for an IPO and seeks to manage its scaling challenges, they engaged Accenture to conduct an audit of their big data practices and provide insights into their top-performing content categories. The project was executed over three months and involved detailed data analysis to identify the categories driving the most engagement on the platform. Social Buzz emphasizes content by keeping all users anonymous,only tracking user reactions on every piece of content. There are over 100 ways that users canreact to content, spanning beyond the traditional reactions of likes, dislikes, and comments.This ensures that trending content, as opposed to individual users, is at the forefront of userfeeds. 
 
 ### **3. Objectives**
 
